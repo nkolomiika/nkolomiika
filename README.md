@@ -5,7 +5,7 @@
 <a href="https://github.com/nkolomiika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LinkedIn: maxbarsukov" height="22" width="30" /></a>
 <a href="https://discordapp.com/users/nkolomiika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord: maxbarsukov" height="22" width="30" /></a>
 <a href="https://t.me/nkolomiika" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: maxbarsukov" height="25" width="30" /></a>
-</span>
+<a href="https://instagram.com/nkolomiika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nkolomiika" height="30" width="40" /></a></span>
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=nkolomiika&style=flat-square)
