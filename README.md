@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=450&size=23&pause=600&color=000000&width=435&lines=%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=450&size=23&pause=600&color=FFFFFF&width=435&lines=%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=nkolomiika)
 
