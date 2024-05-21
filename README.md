@@ -15,7 +15,7 @@ Hi, I'm **Nikita**, a passionate self-taught developer from Russia 🇷🇺, **1
 * 🌱 I’m currently learning **Java** and **Python** 
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * 👽 Learning any technology that appears on my way.
-* 🏆 You can view my resume [**here**](https://drive.google.com/file/d/1VqUwf9yComBusv4HgOPCKnj91KXyypCQ/view?usp=sharing)
+* 🏆 You can view my cv [**here**](https://drive.google.com/file/d/1VqUwf9yComBusv4HgOPCKnj91KXyypCQ/view?usp=sharing)
 * 💬 Ask me about anything in [**issues**](https://github.com/nkolomiika/nkolomiika/issues) under this repo
 
 
