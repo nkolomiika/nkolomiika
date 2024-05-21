@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=450&size=23&pause=600&color=FFFFFF&width=435&lines=%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg)
-
 ![](https://komarev.com/ghpvc/?username=nkolomiika)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkolomiika&theme=transparent&show_icons=true&hide=contribs,issues&rank_icon=github#gh-light-mode-only) ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkolomiika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
