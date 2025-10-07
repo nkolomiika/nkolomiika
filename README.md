@@ -10,12 +10,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nkolomiika&style=flat-square)
 
-Hi, I'm **Nikita**, a developer from Russia 🇷🇺, **20 years old** 👶 and **3 years of coding** 🧐.
+Hi, I'm **Nikita**, a developer from Russia 🇷🇺, **20 years old** 👶 and **4 years of coding** 🧐.
 
 * 🌱 I’m currently learning **Java** and **Python** 
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * 👽 Learning any technology that appears on my way.
-* 🏆 You can view my cv [**here**](https://drive.google.com/file/d/1i7DVSzjt94wzI-KQbOuOfXG-wxZcm7q6/view?usp=drivesdk)
 * 💬 Ask me about anything in [**issues**](https://github.com/nkolomiika/nkolomiika/issues) under this repo
 
 
