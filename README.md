@@ -10,8 +10,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nkolomiika&style=flat-square)
 
-Hi, I'm **Nikita**, a developer from Russia 🇷🇺, **20 years old** 👶 and **4 years of coding** 🧐.
-
 * 🌱 I’m currently learning **Java** and **Python** 
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * 👽 Learning any technology that appears on my way.
